@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}イントロダクション}{{2}}{section.1}%
+\contentsline {section}{\numberline {2}TRAPPIST-1e の気候シミュレーションと動機}{{4}}{section.2}%
+\contentsline {subsection}{\numberline {2.1}惑星 GCM を相互比較する動機}{{4}}{subsection.2.1}%
+\contentsline {section}{\numberline {3}THAI プロトコル}{{4}}{section.3}%
+\contentsline {section}{\numberline {4}アウトプット}{{4}}{section.4}%
+\contentsline {section}{\numberline {5}要約}{{4}}{section.5}%
+\contentsline {section}{\numberline {付録A}望遠鏡について}{{4}}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}ジェームズ・ウェッブ宇宙望遠鏡 (JWST)}{{4}}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}欧州超大型望遠鏡 (E-ELT)}{{4}}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}30 メートル望遠鏡 (TMT)}{{4}}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}巨大マゼラン望遠鏡 (GMT)}{{5}}{subsection.A.4}%
