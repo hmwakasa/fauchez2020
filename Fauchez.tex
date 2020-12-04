@@ -21,6 +21,8 @@
 \mhchemoptions{textfontcommand=\sffamily,mathfontcommand=\mathsf}
 \newcommand*\cec[1]{\cesplit{{\,\ }{\0}}{#1}}
 
+\usepackage{array}
+
 \ltjsetparameter{jacharrange={-2}}%ギリシア文字、キリル文字を AL Char に。
 \usepackage[no-math,match,deluxe,fontspec,jfm_yoko=jlreq,jfm_tate=jlreqv]{luatexja-preset}
 
@@ -29,8 +31,8 @@
 \usepackage{newpxmath,amsmath,mathtools,amssymb,mathrsfs,rsfso,mleftright}
 \usepackage[T1]{fontenc}
 \mleftright
+
 \SetSymbolFont{operators}{normal}{T1}{uop}{m}{n}
-\DeclareSymbolFont{numbers}{T1}{pplx}{m}{n}
 \DeclareMathAlphabet{\mathnormal}{T1}{pplx}{m}{it}
 \DeclareMathAlphabet{\mathrm}{T1}{uop}{m}{n}
 \DeclareMathAlphabet{\mathit}{T1}{pplx}{m}{it}
@@ -38,6 +40,7 @@
 \DeclareMathAlphabet{\mathsf}{T1}{kurier}{m}{n}
 \DeclareMathAlphabet{\mathbold}{T1}{pplx}{b}{it}
 
+\DeclareSymbolFont{numbers}{T1}{pplx}{m}{n}
 \DeclareMathSymbol{0}\mathalpha{numbers}{`0}
 \DeclareMathSymbol{1}\mathalpha{numbers}{`1}
 \DeclareMathSymbol{2}\mathalpha{numbers}{`2}
@@ -48,6 +51,27 @@
 \DeclareMathSymbol{7}\mathalpha{numbers}{`7}
 \DeclareMathSymbol{8}\mathalpha{numbers}{`7}
 \DeclareMathSymbol{9}\mathalpha{numbers}{`9}
+
+\DeclareFontFamily{U}{mathastro}{}
+\DeclareFontShape{U}{mathastro}{m}{n}{<->mathastrotest10}{}
+\DeclareSymbolFont{astro}{U}{mathastro}{m}{n}
+\DeclareMathSymbol\Sun\mathalpha{astro}{'300}
+\DeclareMathSymbol\Mercury\mathalpha{astro}{'301}
+\DeclareMathSymbol\Venus\mathalpha{astro}{'302}
+\DeclareMathSymbol\Earth\mathalpha{astro}{'303}
+\DeclareMathSymbol\Mars\mathalpha{astro}{'304}
+\DeclareMathSymbol\Jupiter\mathalpha{astro}{'305}
+\DeclareMathSymbol\Saturn\mathalpha{astro}{'306}
+\DeclareMathSymbol\Uranus\mathalpha{astro}{'307}
+\DeclareMathSymbol\Neptune\mathalpha{astro}{'310}
+\DeclareMathSymbol\Pluto\mathalpha{astro}{'311}
+\DeclareMathSymbol\varEarth\mathalpha{astro}{'312}
+\DeclareMathSymbol\Moon\mathalpha{astro}{'313}
+\DeclareMathSymbol\leftmoon\mathalpha{astro}{'313}
+\DeclareMathSymbol\rightmoon\mathalpha{astro}{'314}
+\DeclareMathSymbol\fullmoon\mathalpha{astro}{'315}
+\DeclareMathSymbol\newmoon\mathalpha{astro}{'316}
+\DeclareMathSymbol\newmoon\mathalpha{astro}{'316}
 
 %\setmainfont{Palatino}
 %\setmainfont{FOT-TsukuAOldMinPr6-M.otf}[
@@ -221,7 +245,8 @@ Exoplanet Radiative Transfer Model Intercomparison Project (PALAEOTRIP)%
 
 全球気候モデル (GCM) は惑星大気や表面の物理過程を表現するために設計
 された 3 次元数値モデルである。GCM は実在惑星の大気や海洋をモデル化
-する最も洗練された方法である。GCM は動的コアを介して接続された 1 次元
+する最も洗練された方法である。GCM は力学コア\footnote{dynamical core}
+を介して接続された 1 次元
 の時間進行気候モデルの複雑なネットワークとして見ることができる（以下
 を参照のこと）。それぞれの 1 次元列には、放射移動、対流、境界層の
 過程、雲のマクロスケールとミクロスケールの物理学、エアロゾル、降水、
@@ -231,7 +256,84 @@ Exoplanet Radiative Transfer Model Intercomparison Project (PALAEOTRIP)%
 この実験プロトコルの背景にある動機は、分光透過法と熱位相曲線
 \footnote{thermal phase curves}を用いて、モデル間の違いが惑星の
 ハビタビリティとその観測値の評価にどのような影響を与えるかを、JWST
-のような今後の観測点で評価することである。
+のような今後の観測点で評価することである。相互比較プロトコルは、以下
+に列挙された、モデル間の違いを生み出しうる原因を評価するように設計
+されている。
+
+\begin{description}
+	\item[力学コア] 力学コアは、（回転する）惑星表面上の流体力学の
+		方程式の数値解を求める方法である。大気中の気体、雲、エアロゾル
+		粒子、潜熱・顕熱及び運動量を大気のカラム間で輸送する風に
+		ついて計算する。
+	\item[放射輸送] それぞれのモデルは独自の放射輸送を仮定しており、
+		違うスペクトルのデータベースや、同じスペクトルのデータベース
+		でも違うバージョンを用いていることがある（例えば、HITRAN）。
+		collision-induced absorption (CIA)、ライン―バイ―ラインと
+		相関 k 分布法 (Lacis and Oinas, 1991)、ラインカットオフ、
+		スペクトル分解能など。
+	\item[水の物理学] 水の熱力学的なすべての段階での扱いは、
+		ハビタブルな惑星のシミュレーションをする上で重要である。特に、
+		雲と対流過程は気候モデル間の違いの重要な原因であり、これらの
+		違いは M 型赤色矮星を公転する系外惑星をモデリングするに際して、
+		しばしば悪化する。
+\end{description}
+
+モデル間での雲の性質の違いに重点を置くことに注意してほしい。なぜならば、
+それらは現在の放射輸送スキームでシミュレーションされたスペクトルの強度
+におおきな影響を与える可能性があるからである(Fauchez et al., 2019)。
+しかし、観測者に現実的な観測の制約を与えるためには、3 次元の雲の場を
+十分に理解する必要がある。したがって、これらの GCM 間の潜在的な違いに
+対処することが重要である。
+
+以下の 4 つの GCM（の惑星版）が THAI に最初から含まれている。
+\begin{itemize}
+	\item Laboratoire de Météorologie Dynamique -- Generic model (LMDG)%
+		\footnote{Wordsworth et al., 2011, a review paper on the model
+		is currently under preparation}
+	\item Resolving Orbital and Climate Keys of Earth and
+		Extraterrestrial Environments with Dynamics (ROCKE-3D)%
+		\footnote{Planet 1.0 version derived from the NASA GISS Model E;
+		Way et al., 2017}
+	\item Exoplanet Community Atmospheric Model (ExoCAM)
+		\footnote{available on GitHub:
+		\url{https://github.com/storyofthewolf/ExoCAM},
+		available from the National Center for Atmospheric Research (NCAR):
+		\url{http://www.cesm.ucar.edu/models/cesm1.2/},
+		derived from the CAM4 NCAR model; Neale, 2010}
+	\item Met Office Unified Model (UM)
+		\footnote{Mayne et al., 2014; Boutle et al., 2017}
+\end{itemize}
+
+相互比較の作業に先立ってプロトコルを公開することで、他のチームもこの
+プロトコルを用いて自身の GCM と本研究の 4 つの GCM を比較することが
+できるようになることを期待している。
+
+\subsection{TRAPPIST-1e のベンチマーク}\label{benchmark}
+
+TRAPPIST-1e は、JWST によって分光透過法による大気の特徴づけを今まで
+行ってきた、ハビタブルな惑星の候補の中で、最も優れているもののひとつ
+である。そのため、GCM 相互比較のための実験プロトコルに用いる惑星の候補
+となることは明らかである。表\ref{param}に Grimm et al.\ による TRAPPIST-1e
+のパラメーターをまとめる。
+
+\begin{table}[t]
+	\caption{TRAPPIST-1 の恒星スペクトルと TRAPPIST-1e の惑星パラメーター
+	(Grimm et al. 2018)}\label{param}
+	\centering
+	\begin{tabular}{ll}
+		\hline
+		恒星とスペクトル&\(2600\hmunit{K}\) BT-Settl with \(\ce{Fe/H}=0\)\\
+		惑星&TRAPPIST-1e\\
+		太陽定数&\(900\hmunit{W\,m^{-2}}\)\\
+		自転周期&\(6.1\hmunit{d}\)\\
+		公転周期&\(6.1\hmunit{d}\)\\
+		質量 (\(M_\Earth\))&\(0.772\)\\
+		半径 (\(R_\Earth\))&\(0.910\)\\
+		密度 (\(\rho_\Earth\))&\(1.024\)\\
+		重力 (\(g_\Earth\))&\(0.930\)\\
+		\hline
+	\end{tabular}
+\end{table}
 
 \section{THAI プロトコル}\label{thai}
 

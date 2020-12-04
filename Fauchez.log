@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.11.2)  17 NOV 2020 15:24
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.11.30)  3 DEC 2020 17:05
  restricted system commands enabled.
 **Fauchez.tex
 (./Fauchez.tex
@@ -131,7 +131,7 @@ tex)) (/usr/local/texlive/texmf-local/tex/latex/dennou777/d777helper.sty
 Package: d777helper 2019-05-16 v7.1
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
@@ -1164,14 +1164,14 @@ sts.tex))
 \pgfutil@abb=\box77
 ) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
 ))
-Package: pgf 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks38
 \pgfkeys@temptoks=\toks39
@@ -1202,30 +1202,30 @@ ode.tex
 \pgf@sys@id@count=\count307
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/10/01 v3.1.6a (3.1.6a)
+File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
 )
 Driver file for pgf: pgfsys-luatex.def
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.d
 ef
-File: pgfsys-luatex.def 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfsys-luatex.def 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
 df.def
-File: pgfsys-common-pdf.def 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
 )))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
-File: pgfsyssoftpath.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfsyssoftpath@smallbuffer@items=\count308
 \pgfsyssoftpath@bigbuffer@items=\count309
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
-File: pgfsysprotocol.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
@@ -1260,7 +1260,7 @@ erarithmetics.code.tex)))
 )) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
-File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@picminx=\dimen267
 \pgf@picmaxx=\dimen268
 \pgf@picminy=\dimen269
@@ -1278,19 +1278,19 @@ File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@path@lastx=\dimen281
 \pgf@path@lasty=\dimen282
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
-File: pgfcorepathusage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@shorten@end@additional=\dimen283
 \pgf@shorten@start@additional=\dimen284
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
-File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfpic=\box79
 \pgf@hbox=\box80
 \pgf@layerbox@main=\box81
@@ -1298,83 +1298,83 @@ File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgflinewidth=\dimen285
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
-File: pgfcoretransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@pt@x=\dimen286
 \pgf@pt@y=\dimen287
 \pgf@pt@temp=\dimen288
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
-File: pgfcorequick.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
 ode.tex
-File: pgfcoreobjects.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
 ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
-File: pgfcorearrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfarrowsep=\dimen289
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
-File: pgfcoreshade.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@max=\dimen290
 \pgf@sys@shading@range@num=\count313
 \pgf@shadingcount=\count314
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
-File: pgfcoreimage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
-File: pgfcoreexternal.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfexternal@startupbox=\box82
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
-File: pgfcorelayers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
 ncy.code.tex
-File: pgfcoretransparency.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
 code.tex
-File: pgfcorepatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
 tex
-File: pgfcorerdf.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
-File: pgfmoduleshapes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfnodeparttextbox=\box83
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
-File: pgfmoduleplot.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
-Package: pgfcomp-version-0-65 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@nodesepstart=\dimen291
 \pgf@nodesepend=\dimen292
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
-Package: pgfcomp-version-1-18 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
@@ -1382,7 +1382,7 @@ Package: pgfcomp-version-1-18 2020/10/01 v3.1.6a (3.1.6a)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
+Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen293
@@ -1392,11 +1392,11 @@ Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
-Package: tikz 2020/10/01 v3.1.6a (3.1.6a)
+Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@plot@mark@count=\count315
 \pgfplotmarksize=\dimen295
 )
@@ -1419,7 +1419,7 @@ File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
-File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgfmatrixcurrentrow=\count320
 \pgfmatrixcurrentcolumn=\count321
 \pgf@matrix@numberofcolumns=\count322
@@ -1428,7 +1428,7 @@ File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
@@ -1454,7 +1454,7 @@ soldpgfsupp_loader.code.tex
 e.tex)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibrar
 yluamath.code.tex)
-Package pgfplots info on input line 290: luamath library shipped with pgf 3.1.6a
+Package pgfplots info on input line 290: luamath library shipped with pgf 3.1.7a
  is up-to-date
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
@@ -1548,11 +1548,11 @@ brarydecorations.pathreplacing.code.tex))
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: tikzlibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
 ks.code.tex
-File: pgflibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2020/10/09 version 4.42 text color boxes
@@ -1585,7 +1585,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+File: tikzlibrarycalc.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )
 (/usr/local/texlive/texmf-local/tex/latex/epmaketitle/epmaketitle.sty
 (/usr/local/texlive/2020/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1692,6 +1692,16 @@ in chemistry (CN)
 \mhchem@option@minustextsidebearingleft=\dimen343
 \mhchem@option@minustextsidebearingright=\dimen344
 )
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen345
+\ar@mcellbox=\box101
+\extrarowheight=\dimen346
+\NC@list=\toks56
+\extratabsurround=\skip82
+\backup@length=\skip83
+\ar@cellbox=\box102
+)
 (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/addons/luatexja-preset.
 sty
 Package: luatexja-preset 2020-09-14 Japanese font presets
@@ -1722,9 +1732,9 @@ X
 \l__fontspec_emdef_int=\count352
 \l__fontspec_strong_int=\count353
 \l__fontspec_strongdef_int=\count354
-\l__fontspec_tmpa_dim=\dimen345
-\l__fontspec_tmpb_dim=\dimen346
-\l__fontspec_tmpc_dim=\dimen347
+\l__fontspec_tmpa_dim=\dimen347
+\l__fontspec_tmpb_dim=\dimen348
+\l__fontspec_tmpc_dim=\dimen349
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
@@ -1964,8 +1974,8 @@ Package: newpxmath 2020/11/02 v1.414
 (/usr/local/texlive/2020/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\px@tA=\toks56
-\px@tB=\toks57
+\px@tA=\toks57
+\px@tB=\toks58
 \px@su=\read5
 \px@Isdigit=\count356
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 197.
@@ -2049,7 +2059,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbolsPXA' in version `bold'
 (Font)                  U/npxexa/m/n --> U/npxexa/b/n on input line 318.
 \px@cntz=\count357
 \px@IsAlNum=\count358
-\px@sbptoks=\toks58
+\px@sbptoks=\toks59
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 473.
 LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 474.
 LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 475.
@@ -2093,16 +2103,16 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \g_MT_multlinerow_int=\count365
-\l_MT_multwidth_dim=\dimen348
-\origjot=\skip82
-\l_MT_shortvdotswithinadjustabove_dim=\dimen349
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen350
-\l_MT_above_intertext_sep=\dimen351
-\l_MT_below_intertext_sep=\dimen352
-\l_MT_above_shortintertext_sep=\dimen353
-\l_MT_below_shortintertext_sep=\dimen354
-\xmathstrut@box=\box101
-\xmathstrut@dim=\dimen355
+\l_MT_multwidth_dim=\dimen350
+\origjot=\skip84
+\l_MT_shortvdotswithinadjustabove_dim=\dimen351
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen352
+\l_MT_above_intertext_sep=\dimen353
+\l_MT_below_intertext_sep=\dimen354
+\l_MT_above_shortintertext_sep=\dimen355
+\l_MT_below_shortintertext_sep=\dimen356
+\xmathstrut@box=\box103
+\xmathstrut@dim=\dimen357
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -2338,29 +2348,31 @@ Package: mleftright 2019/12/03 v1.2 Math left/right delim. as open/close (HO)
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 32.
+(Font)              `operators' in the math version `normal' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/zpltlf/m/n --> T1/uop/m/n on input line 32.
-\symnumbers=\mathgroup13
-LaTeX Font Info:    Redeclaring math alphabet \mathnormal on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 35.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
+(Font)                  OT1/zpltlf/m/n --> T1/uop/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathnormal on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/zpltlf/m/it --> T1/pplx/m/it on input line 36.
+(Font)                  OT1/zpltlf/m/it --> T1/pplx/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/zpltlf/b/it --> T1/pplx/m/it on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
+(Font)                  OT1/zpltlf/b/it --> T1/pplx/m/it on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/npxtt/m/n --> T1/lmtt/m/n on input line 37.
+(Font)                  T1/npxtt/m/n --> T1/lmtt/m/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/npxtt/b/n --> T1/lmtt/m/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 38.
+(Font)                  T1/npxtt/b/n --> T1/lmtt/m/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/URWClassico(0)/m/n --> T1/kurier/m/n on input line 38
+(Font)                  T1/URWClassico(0)/m/n --> T1/kurier/m/n on input line 40
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/URWClassico(0)/b/n --> T1/kurier/m/n on input line 38
+(Font)                  T1/URWClassico(0)/b/n --> T1/kurier/m/n on input line 40
 .
+\symnumbers=\mathgroup13
+\symastro=\mathgroup14
+LaTeX Font Info:    Redeclaring math symbol \newmoon on input line 74.
 (load cache: extra_tsukuaoldminpr6-m.luc)(load cache: extra_tsukuaoldminpr6-b.lu
 c)
 
@@ -2374,20 +2386,20 @@ tures={JFM=jlreq},TateFeatures={JFM=jlreqv}].
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 61.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 85.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
 (Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/m/n --> JY3/FOT-Tsuku
-AOldMinPr6-M.otf(0)/m/n on input line 61.
+AOldMinPr6-M.otf(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/b/n --> JY3/FOT-Tsuku
-AOldMinPr6-M.otf(0)/m/n on input line 61.
+AOldMinPr6-M.otf(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n --> JY3/FOT-TsukuAO
-ldMinPr6-M.otf(0)/b/n on input line 61.
+ldMinPr6-M.otf(0)/b/n on input line 85.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 61.
+(Font)              scaled to size 10.0pt on input line 85.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 61.
+(Font)              scaled to size 10.0pt on input line 85.
 luaotfload | cache : Lookup cache loaded from /Users/hitomisan/Library/texlive/2
 020/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: Font "FOT-Tsu
@@ -2415,13 +2427,13 @@ es={JFM=jlreq},TateFeatures={JFM=jlreqv}].
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 71.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
 (Font)                  JY3/HaranoAjiGothic-Regular.otf(0)/m/n --> JY3/FOT-Tsuku
-OldGothicStd-B(0)/m/n on input line 71.
+OldGothicStd-B(0)/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
 (Font)                  JY3/HaranoAjiGothic-Regular.otf(0)/m/n --> JY3/FOT-Tsuku
-OldGothicStd-B(0)/m/n on input line 71.
+OldGothicStd-B(0)/m/n on input line 95.
 (load cache: extra_hackgen-regular.luc)
 
 Package fontspec Info: Could not resolve font "HackGen/BI" (it probably
@@ -2482,117 +2494,112 @@ Package fontspec Info: Font family 'HackGen(1)' created for font 'HackGen'
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Trying loading font information for T1+zpltosf on input line
- 103.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/t1zpltosf.fd
+(/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
+Package: lltjp-array 2018/03/29 Patch to array for LuaTeX-ja
+)
+LaTeX Font Info:    Trying loading font information for T1+zpltosf on input line
+ 127.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/t1zpltosf.fd
 File: t1zpltosf.fd 2015/01/17 v1.0 font definition file for T1/zpl/tosf
 )
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 103.
+(Font)              scaled to size 10.0pt on input line 127.
 
 (./Fauchez.aux)
 \openout1 = Fauchez.aux
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 103.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 127.
 LaTeX Font Info:    Trying loading font information for OML+npxmi on input line 
-103.
+127.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
-LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 10
-3.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
+LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 12
+7.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 127.
 LaTeX Font Info:    Trying loading font information for U+npxexa on input line 1
-03.
+27.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 127.
 LaTeX Font Info:    Trying loading font information for LMS+npxsy on input line 
-103.
+127.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 127.
 LaTeX Font Info:    Trying loading font information for LMX+npxexx on input line
- 103.
+ 127.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 103.
-Package bxdvidriver Info: Graphics driver is 'luatex', on input line 103.
+LaTeX Font Info:    ... okay on input line 127.
+Package bxdvidriver Info: Graphics driver is 'luatex', on input line 127.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 103.
+LaTeX Info: Redefining \selectfont on input line 127.
 
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count366
-\scratchdimen=\dimen356
-\scratchbox=\box102
+\scratchdimen=\dimen358
+\scratchbox=\box104
 \nofMPsegments=\count367
 \nofMParguments=\count368
-\everyMPshowfont=\toks59
+\everyMPshowfont=\toks60
 \MPscratchCnt=\count369
-\MPscratchDim=\dimen357
+\MPscratchDim=\dimen359
 \MPnumerator=\count370
 \makeMPintoPDFobject=\count371
-\everyMPtoPDFconversion=\toks60
+\everyMPtoPDFconversion=\toks61
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 5.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
-,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 103.
+LaTeX Info: Redefining \microtypecontext on input line 127.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 103.
+LaTeX Info: Redefining \showhyphens on input line 127.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -2600,7 +2607,7 @@ Package microtype Info: No adjustment of kerning.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-Package hyperref Info: Link coloring ON on input line 103.
+Package hyperref Info: Link coloring ON on input line 127.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -2614,9 +2621,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count372
 )
-LaTeX Info: Redefining \ref on input line 103.
-LaTeX Info: Redefining \pageref on input line 103.
-LaTeX Info: Redefining \nameref on input line 103.
+LaTeX Info: Redefining \ref on input line 127.
+LaTeX Info: Redefining \pageref on input line 127.
+LaTeX Info: Redefining \nameref on input line 127.
  (./Fauchez.out) (./Fauchez.out)
 \@outlinefile=\write7
 
@@ -2626,76 +2633,76 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 nefit from \pgfplotsset{compat=1.17} (current compat level: 1.16).
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 103.
+Package chemgreek Info: Activating mapping `fontspec' on line 127.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\pgfarrowinset=\dimen358
-\pgfarrowlength=\dimen359
-\pgfarrowwidth=\dimen360
-\pgfarrowlinewidth=\dimen361
+File: pgflibraryarrows.meta.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfarrowinset=\dimen360
+\pgfarrowlength=\dimen361
+\pgfarrowwidth=\dimen362
+\pgfarrowlinewidth=\dimen363
 )
 \c@mv@tabular=\count373
 \c@mv@boldtabular=\count374
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 17.0pt on input line 108.
+(Font)              scaled to size 17.0pt on input line 132.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 17.0pt on input line 108.
+(Font)              scaled to size 17.0pt on input line 132.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 17.0pt on input line 108.
+(Font)              scaled to size 17.0pt on input line 132.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 108.
+(Font)              scaled to size 12.0pt on input line 132.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 108.
+(Font)              scaled to size 12.0pt on input line 132.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 108.
-LaTeX Font Info:    Trying loading font information for T1+uop on input line 108
+(Font)              scaled to size 12.0pt on input line 132.
+LaTeX Font Info:    Trying loading font information for T1+uop on input line 132
 .
  (/usr/local/texlive/texmf-local/tex/latex/classico/t1uop.fd
 File: T1uop.fd 2014/08/02 Font definitions for T1/uop.
 )
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 12.0pt on input line 108.
+(Font)              scaled to size 12.0pt on input line 132.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `uop' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 8.8pt on input line 108.
+(Font)              scaled to size 8.8pt on input line 132.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 6.6pt on input line 108.
+(Font)              scaled to size 6.6pt on input line 132.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 8.8pt on input line 108.
+(Font)              scaled to size 8.8pt on input line 132.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 6.6pt on input line 108.
+(Font)              scaled to size 6.6pt on input line 132.
 LaTeX Font Info:    Trying loading font information for OMX+yhex on input line 1
-08.
+32.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/yhmath/OMXyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
 LaTeX Font Info:    Trying loading font information for U+npxmia on input line 1
-08.
+32.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying loading font information for U+npxsym on input line 1
-08.
+32.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying loading font information for U+npxsyc on input line 1
-08.
+32.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
-LaTeX Font Info:    Trying loading font information for U+msa on input line 108.
+LaTeX Font Info:    Trying loading font information for U+msa on input line 132.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2704,7 +2711,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying loading font information for U+msb on input line 108.
+LaTeX Font Info:    Trying loading font information for U+msb on input line 132.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2713,91 +2720,91 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying loading font information for U+rsfs on input line 108
+LaTeX Font Info:    Trying loading font information for U+rsfs on input line 132
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying loading font information for T1+pplx on input line 10
-8.
+LaTeX Font Info:    Trying loading font information for T1+pplx on input line 13
+2.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `URWClassico' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 14.0pt on input line 110.
+(Font)              scaled to size 14.0pt on input line 134.
 LaTeX Font Info:    Trying loading font information for T1+zplsups on input line
- 112.
+ 136.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/t1zplsups.fd
 File: t1zplsups.fd 2015/01/17 v1.0
 )
 LaTeX Font Info:    Font shape `T1/zplsups/m/n' will be
-(Font)              scaled to size 10.0pt on input line 112.
+(Font)              scaled to size 10.0pt on input line 136.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplsups' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 112.
+(Font)              scaled to size 8.00003pt on input line 136.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 112.
+(Font)              scaled to size 8.00003pt on input line 136.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 112.
+(Font)              scaled to size 8.00003pt on input line 136.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 10.0pt on input line 156.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 10.0pt on input line 156.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 10.0pt on input line 156.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 10.0pt on input line 156.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 7.3pt on input line 132.
+(Font)              scaled to size 7.3pt on input line 156.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 5.5pt on input line 132.
+(Font)              scaled to size 5.5pt on input line 156.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 132.
+(Font)              scaled to size 7.3pt on input line 156.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 5.5pt on input line 132.
+(Font)              scaled to size 5.5pt on input line 156.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 132.
+(Font)              size <5> substituted on input line 156.
 
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 132.
+(Font)              scaled to size 7.3pt on input line 156.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 132.
+(Font)              scaled to size 7.3pt on input line 156.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 7.3pt on input line 132.
+(Font)              scaled to size 7.3pt on input line 156.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 5.5pt on input line 132.
+(Font)              scaled to size 5.5pt on input line 156.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 5.5pt on input line 132.
+(Font)              scaled to size 5.5pt on input line 156.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 5.5pt on input line 132.
+(Font)              scaled to size 5.5pt on input line 156.
 (./Fauchez.toc
 LaTeX Font Info:    Font shape `T1/zpltosf/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 2.
@@ -2813,70 +2820,115 @@ LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
 \openout8 = Fauchez.toc
 \jlreq@extramark@register@1=\marks1
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `T1/zpltosf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 180.
+(Font)              scaled to size 10.0pt on input line 204.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 180.
+(Font)              scaled to size 10.0pt on input line 204.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 180.
+(Font)              scaled to size 10.0pt on input line 204.
 LaTeX Font Info:    Font shape `T1/zpltosf/b/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuAOldMinPr6-M.otf(0)/b/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/b/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `TU/HackGen(0)/b/n' will be
-(Font)              scaled to size 7.12001pt on input line 180.
+(Font)              scaled to size 7.12001pt on input line 204.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `HackGen' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 8.00003pt on input line 180.
+(Font)              scaled to size 8.00003pt on input line 204.
 LaTeX Font Info:    Font shape `TU/HackGen(0)/m/n' will be
-(Font)              scaled to size 7.12001pt on input line 180.
+(Font)              scaled to size 7.12001pt on input line 204.
  [2]
-LaTeX Font Info:    Calculating math sizes for size <8.00003> on input line 200.
+LaTeX Font Info:    Calculating math sizes for size <8.00003> on input line 224.
 
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 8.00003pt on input line 200.
+(Font)              scaled to size 8.00003pt on input line 224.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 5.83998pt on input line 200.
+(Font)              scaled to size 5.83998pt on input line 224.
 LaTeX Font Info:    Font shape `T1/uop/m/n' will be
-(Font)              scaled to size 4.40004pt on input line 200.
+(Font)              scaled to size 4.40004pt on input line 224.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 5.83998pt on input line 200.
+(Font)              scaled to size 5.83998pt on input line 224.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuAOldMinPr6-M.otf(0)/m/n' will be
-(Font)              scaled to size 4.40004pt on input line 200.
+(Font)              scaled to size 4.40004pt on input line 224.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.40004> not available
-(Font)              size <5> substituted on input line 200.
+(Font)              size <5> substituted on input line 224.
 
 [3]
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 245.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 245.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 245.
 LaTeX Font Info:    Font shape `TU/URWClassico(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 245.
 LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 245.
 LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 221.
- [4] [5] (./Fauchez.aux)
-Package rerunfilecheck Info: File `Fauchez.out' has not changed.
-(rerunfilecheck)             Checksum: 6CAC62A93632810BD3C779DA4267EADA;1605.
+(Font)              scaled to size 12.0pt on input line 245.
+LaTeX Font Info:    Font shape `TU/URWClassico(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 264.
+LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 264.
+LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 264.
+LaTeX Font Info:    Trying loading font information for TS1+zpltosf on input lin
+e 290.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ts1zpltosf.fd
+File: ts1zpltosf.fd 2015/01/18 v1.0 fd file for TS1/zpltosf
+)
+LaTeX Font Info:    Font shape `TS1/zpltosf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 290.
 
+Overfull \vbox (3.97118pt too high) has occurred while \output is active []
+
+
+[4]
+LaTeX Font Info:    Font shape `TU/URWClassico(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Font shape `TU/URWClassico(0)/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Font shape `JT3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Font shape `JY3/FOT-TsukuOldGothicStd-B(0)/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 321.
+LaTeX Font Info:    Trying loading font information for T1+kurier on input line 
+325.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/kurier/t1kurier.fd
+File: t1kurier.fd 2008/07/22 v0.995 font definition file for T1/kurier (MW)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `kurier' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [5]
+[6] (./Fauchez.aux)
+
+Package rerunfilecheck Warning: File `Fauchez.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Fauchez.out':
+(rerunfilecheck)             Before: D10E0B270F65C210986422DDFE6F8642;1768
+(rerunfilecheck)             After:  39391FA63C195CF9B2686352DCDE5E2A;1782.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.59996pt have occurred.
@@ -2887,23 +2939,27 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 )
 
 Here is how much of LuaTeX's memory you used:
- 50598 strings out of 479005
- 305800,1648299 words of node,token memory allocated
- 6097 words of node memory still in use:
-   11 hlist, 2 vlist, 6 rule, 4 glue, 59 kern, 2 glyph, 1061 attribute, 617 glue
-_spec, 73 attribute_list, 2 write, 41 user_defined nodes
-   avail lists: 1:29,2:71556,3:902,4:550,5:438,6:62,7:9517,8:39,9:3853,10:46,11:
-142
- 67628 multiletter control sequences out of 65536+600000
- 433 fonts using 238237531 bytes
- 121i,9n,127p,1180b,2058s stack positions out of 5000i,500n,10000p,200000b,200000s
-</Users/hitomisan/Library/Fonts/HackGen-Regular.ttf>{/usr/local/texlive/texmf-lo
-cal/fonts/enc/dvips/classico/clsc_tyth7d.enc}{/usr/local/texlive/2020/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/texmf-local/fonts/opentype/urw/
-classico/URWClassico-Bold.otf>{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvip
-s/newtx/ntx-ec-tosf.enc}</usr/local/texlive/texmf-local/fonts/opentype/urw/class
-ico/URWClassico-Regular.otf>{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/
-newpx/npxsups_t1.enc}</Library/Fonts/FOT-TsukuOldGothicStd-B.otf
+ 50318 strings out of 479005
+ 305798,1648299 words of node,token memory allocated
+ 8241 words of node memory still in use:
+   11 hlist, 2 vlist, 6 rule, 11 glue, 76 kern, 2 glyph, 1541 attribute, 799 glu
+e_spec, 105 attribute_list, 2 write, 60 user_defined nodes
+   avail lists: 1:27,2:72384,3:924,4:562,5:392,6:66,7:9819,8:46,9:3916,10:46,11:
+151
+ 67307 multiletter control sequences out of 65536+600000
+ 450 fonts using 240963515 bytes
+ 121i,12n,117p,1180b,2153s stack positions out of 5000i,500n,10000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'section.6'
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/kurier/ec-kurier.enc}{/usr/l
+ocal/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</Users/hitomisa
+n/Library/Fonts/HackGen-Regular.ttf>{/usr/local/texlive/texmf-local/fonts/enc/dv
+ips/classico/clsc_tyth7d.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips
+/base/8r.enc}</usr/local/texlive/texmf-local/fonts/opentype/urw/classico/URWClas
+sico-Bold.otf>{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-t
+osf.enc}</usr/local/texlive/texmf-local/fonts/opentype/urw/classico/URWClassico-
+Regular.otf>{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newpx/npxsups_t1
+.enc}</Library/Fonts/FOT-TsukuOldGothicStd-B.otf
 warning  (file /Library/Fonts/FOT-TsukuOldGothicStd-B.otf) (cff): Type2 Charstri
 ng Parser: garbage after endchar
 
@@ -2915,16 +2971,24 @@ warning  (file /Library/Fonts/FOT-TsukuAOldMinPr6-M.otf) (cff): Type2 Charstring
 
 warning  (file /Library/Fonts/FOT-TsukuAOldMinPr6-M.otf) (cff): Type2 Charstring
  Parser: garbage after endchar
+
+warning  (file /Library/Fonts/FOT-TsukuAOldMinPr6-M.otf) (cff): Type2 Charstring
+ Parser: garbage after endchar
 ></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb></usr/loc
 al/texlive/texmf-local/fonts/type1/urw/classico/URWClassico-Regular.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/newpx/npxsups-Regular.pfb></usr/l
-ocal/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/
-texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on Fauchez.pdf (5 pages, 377170 bytes).
+cal/texlive/2020/texmf-dist/fonts/type1/nowacki/kurier/kurierr.pfb></usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/mathabx-type1/mathastrotest10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/npxsups-Regular.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist
+/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/typ
+e1/public/newpx/zplr.pfb>
+Output written on Fauchez.pdf (6 pages, 500233 bytes).
 
-PDF statistics: 176 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 131072)
- 119 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 231 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 131072)
+ 127 words of extra memory for PDF output out of 10000 (max. 100000000)
 
