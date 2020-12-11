@@ -8,7 +8,6 @@
 \hypersetup{linkcolor=blue,urlcolor=teal,citecolor=olive}
 % \hypersetup{linkcolor=black,urlcolor=black,citecolor=black}
 
-
 \usepackage{pxrubrica}
 \usepackage{autobreak}
 \usepackage{tikz,pgfplots,tcolorbox}
@@ -22,6 +21,9 @@
 \newcommand*\cec[1]{\cesplit{{\,\ }{\0}}{#1}}
 
 \usepackage{array}
+
+\usepackage{enumitem}
+\setlist[description,1]{labelsep*=1\zw}
 
 \ltjsetparameter{jacharrange={-2}}%ギリシア文字、キリル文字を AL Char に。
 \usepackage[no-math,match,deluxe,fontspec,jfm_yoko=jlreq,jfm_tate=jlreqv]{luatexja-preset}
@@ -41,37 +43,37 @@
 \DeclareMathAlphabet{\mathbold}{T1}{pplx}{b}{it}
 
 \DeclareSymbolFont{numbers}{T1}{pplx}{m}{n}
-\DeclareMathSymbol{0}\mathalpha{numbers}{`0}
-\DeclareMathSymbol{1}\mathalpha{numbers}{`1}
-\DeclareMathSymbol{2}\mathalpha{numbers}{`2}
-\DeclareMathSymbol{3}\mathalpha{numbers}{`3}
-\DeclareMathSymbol{4}\mathalpha{numbers}{`4}
-\DeclareMathSymbol{5}\mathalpha{numbers}{`5}
-\DeclareMathSymbol{6}\mathalpha{numbers}{`6}
-\DeclareMathSymbol{7}\mathalpha{numbers}{`7}
-\DeclareMathSymbol{8}\mathalpha{numbers}{`7}
-\DeclareMathSymbol{9}\mathalpha{numbers}{`9}
+\DeclareMathSymbol{0}\mathord{numbers}{`0}
+\DeclareMathSymbol{1}\mathord{numbers}{`1}
+\DeclareMathSymbol{2}\mathord{numbers}{`2}
+\DeclareMathSymbol{3}\mathord{numbers}{`3}
+\DeclareMathSymbol{4}\mathord{numbers}{`4}
+\DeclareMathSymbol{5}\mathord{numbers}{`5}
+\DeclareMathSymbol{6}\mathord{numbers}{`6}
+\DeclareMathSymbol{7}\mathord{numbers}{`7}
+\DeclareMathSymbol{8}\mathord{numbers}{`7}
+\DeclareMathSymbol{9}\mathord{numbers}{`9}
 
 \DeclareFontFamily{U}{mathastro}{}
 \DeclareFontShape{U}{mathastro}{m}{n}{<->mathastrotest10}{}
 \DeclareSymbolFont{astro}{U}{mathastro}{m}{n}
-\DeclareMathSymbol\Sun\mathalpha{astro}{'300}
-\DeclareMathSymbol\Mercury\mathalpha{astro}{'301}
-\DeclareMathSymbol\Venus\mathalpha{astro}{'302}
-\DeclareMathSymbol\Earth\mathalpha{astro}{'303}
-\DeclareMathSymbol\Mars\mathalpha{astro}{'304}
-\DeclareMathSymbol\Jupiter\mathalpha{astro}{'305}
-\DeclareMathSymbol\Saturn\mathalpha{astro}{'306}
-\DeclareMathSymbol\Uranus\mathalpha{astro}{'307}
-\DeclareMathSymbol\Neptune\mathalpha{astro}{'310}
-\DeclareMathSymbol\Pluto\mathalpha{astro}{'311}
-\DeclareMathSymbol\varEarth\mathalpha{astro}{'312}
-\DeclareMathSymbol\Moon\mathalpha{astro}{'313}
-\DeclareMathSymbol\leftmoon\mathalpha{astro}{'313}
-\DeclareMathSymbol\rightmoon\mathalpha{astro}{'314}
-\DeclareMathSymbol\fullmoon\mathalpha{astro}{'315}
-\DeclareMathSymbol\newmoon\mathalpha{astro}{'316}
-\DeclareMathSymbol\newmoon\mathalpha{astro}{'316}
+\DeclareMathSymbol\Sun\mathord{astro}{'300}
+\DeclareMathSymbol\Mercury\mathord{astro}{'301}
+\DeclareMathSymbol\Venus\mathord{astro}{'302}
+\DeclareMathSymbol\Earth\mathord{astro}{'303}
+\DeclareMathSymbol\Mars\mathord{astro}{'304}
+\DeclareMathSymbol\Jupiter\mathord{astro}{'305}
+\DeclareMathSymbol\Saturn\mathord{astro}{'306}
+\DeclareMathSymbol\Uranus\mathord{astro}{'307}
+\DeclareMathSymbol\Neptune\mathord{astro}{'310}
+\DeclareMathSymbol\Pluto\mathord{astro}{'311}
+\DeclareMathSymbol\varEarth\mathord{astro}{'312}
+\DeclareMathSymbol\Moon\mathord{astro}{'313}
+\DeclareMathSymbol\leftmoon\mathord{astro}{'313}
+\DeclareMathSymbol\rightmoon\mathord{astro}{'314}
+\DeclareMathSymbol\fullmoon\mathord{astro}{'315}
+\DeclareMathSymbol\newmoon\mathord{astro}{'316}
+\DeclareMathSymbol\newmoon\mathord{astro}{'316}
 
 %\setmainfont{Palatino}
 %\setmainfont{FOT-TsukuAOldMinPr6-M.otf}[
@@ -312,9 +314,9 @@ Exoplanet Radiative Transfer Model Intercomparison Project (PALAEOTRIP)%
 
 TRAPPIST-1e は、JWST によって分光透過法による大気の特徴づけを今まで
 行ってきた、ハビタブルな惑星の候補の中で、最も優れているもののひとつ
-である。そのため、GCM 相互比較のための実験プロトコルに用いる惑星の候補
-となることは明らかである。表\ref{param}に Grimm et al.\ による TRAPPIST-1e
-のパラメーターをまとめる。
+である。そのため、GCM 相互比較のための実験プロトコルに用いる惑星の
+候補となることは明らかである。表\ref{param}に Grimm et al.\ による
+TRAPPIST-1e のパラメーターをまとめる。
 
 \begin{table}[t]
 	\caption{TRAPPIST-1 の恒星スペクトルと TRAPPIST-1e の惑星パラメーター
